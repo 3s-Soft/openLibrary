@@ -1,0 +1,14 @@
+* {
+  background-color: antiquewhite;
+  
+  margin: auto;
+}
+body{
+    width: 80%;
+    margin: auto;
+}
+.logo{
+    color: blue;
+    font-weight: 600;
+}
+
